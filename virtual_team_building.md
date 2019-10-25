@@ -17,3 +17,11 @@ Virtual team building doesn't need to be complicated or expensive. Usually the c
 * Collaborative Coding Tools
 * Group Email - distribution lists
 
+
+### Workday Virtual Team Building Routine
+
+Make inclusion part of the day to day routine.
+* Have team members join a shared team chat channel/room, for quick real-time conversations.
+* Make video conferencing part of every meeting, for face to face conversations, content sharing, code reviews, and meeting chit chat. *I've even heard from some folks that that turn on the video conferencing leave it on all day for a virtual office feel.*
+* Make use of for pair programming, to help each other learn and grow.
+* Make it a habit to use group email distribution lists where the who group is affected, so that no one is missed.
